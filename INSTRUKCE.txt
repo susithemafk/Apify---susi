@@ -1,0 +1,9 @@
+1) Otevřte si složku Apify - susi ve VSCodu nebo jiném obdobném programu 
+2) Do složky nainstalovat node.js a puppeteer
+    terminal > npm init -y
+    terminal > npm install puppeteer
+3) Spustit index.js 
+    terminal > node index.js
+4) Vyskočí dotaz na vyhledávaný produkt na Alze
+    zadejte dotaz
+5) Po ~10s se vytvoří soubor result.txt, kde bude výstup kódu dle zadání
